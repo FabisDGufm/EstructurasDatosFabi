@@ -32,29 +32,29 @@
 ##  Análisis de Complejidad y Performance
 
 -  **[complejidad](https://github.com/FabisDGufm/EstructurasDatosFabi/tree/main/complejidad)**  
-  Ejercicios aplicando *linear search* y análisis básico de complejidad algorítmica.
+  Ejercicios aplicando *linear search* para su mejor entendimiento.
 
 -  **[profilingM](https://github.com/FabisDGufm/EstructurasDatosFabi/tree/main/profilingM)**  
-  Medición de rendimiento de código utilizando *profiling* para identificar cuellos de botella.
+  Ejercicio utilizando *profiling* para conocer su alcance e importacia de mejor manera.
 
 ---
 
 ##  Actividades y Evaluaciones
 
 -  **[ActividadClick](https://github.com/FabisDGufm/EstructurasDatosFabi/tree/main/ActividadClick)**  
-  Actividad de práctica con interacción y análisis de eventos.
+  Actividad con el uso de CLI.
 
 -  **[Parcial 1](https://github.com/FabisDGufm/EstructurasDatosFabi/tree/main/Parcial1)**  
-  Comparación de complejidad entre operaciones `delete` y `search` en estructuras tipo **stack**.
+  Comparación de complejidad entre operaciones `delete` y `search` en estructuras tipo **stack** por recurrencias.
 
 -  **[Parcial 2](https://github.com/FabisDGufm/EstructurasDatosFabi/tree/main/Parcial2)**  
-  Comparación entre eficiencia de los árboles **AVL** y **BST**.
+  Comparación entre eficiencia de tiempos de los árboles **AVL** y **BST**.
 
 ---
 
-##  Proyecto – geet
+##  Ejercicio - geet
 
-Visualización de estructuras con gráficos generados. Imágenes del proyecto:
+Imágenes de geet en consula propia:
 
 ![geet1](https://github.com/user-attachments/assets/a60402ea-3dfb-4ea5-b2bd-a511f921d976)
 ![geet2](https://github.com/user-attachments/assets/d599ffbc-9ca1-46ee-9716-9098a983bedb)
@@ -64,4 +64,4 @@ Visualización de estructuras con gráficos generados. Imágenes del proyecto:
 
 ---
 
-<p align="center"><i>✨ Hecho con dedicación por Fabi y ayudita de chat ✨</i></p>
+<p align="center"><i>✨ Hecho con dedicación por Fabi y apoyo de chatgpt ✨</i></p>
